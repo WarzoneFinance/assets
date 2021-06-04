@@ -1,0 +1,12 @@
+{
+  "name": "WARZONE",
+  "website": "http://warzone.finance",
+  "description": "WARZ is a community driven gamming token for tournamets and games.",
+  "explorer": "https://bscscan.com/token/0x7a39d01158705359b4f8061a5060097ce8529bcb",
+  "type": "BEP20",
+  "symbol": "WARZ",
+  "decimals": 9,
+  "status": "active",
+  "research": "",
+  "id": "0x7A39D01158705359b4f8061a5060097CE8529BCb"
+}
